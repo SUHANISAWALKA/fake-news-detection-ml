@@ -25,7 +25,7 @@ To build a binary text classifier that can:
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 - Python
 - Pandas, NumPy
@@ -36,7 +36,7 @@ To build a binary text classifier that can:
 
 ---
 
-## 🧠 ML Models Implemented
+##  ML Models Implemented
 
 - ✅ Logistic Regression
 - ✅ Random Forest Classifier
@@ -44,7 +44,7 @@ To build a binary text classifier that can:
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 - Accuracy Score
 - Precision, Recall, F1-score
@@ -53,7 +53,7 @@ To build a binary text classifier that can:
 
 ---
 
-## 📌 How to Use
+##  How to Use
 
 1. Clone the repository or open the notebook in Google Colab.
 2. Upload the dataset files (`Fake.csv`, `True.csv`).
@@ -61,7 +61,7 @@ To build a binary text classifier that can:
 
 ---
 
-## ✅ Results
+##  Results
 
 - Achieved **~95%+ accuracy** with Logistic Regression & Random Forest
 - Models successfully distinguish real vs fake articles
@@ -79,7 +79,7 @@ To build a binary text classifier that can:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Suhani Sawalka**  
 🎓 Electronics & Telecommunication + Data Science Minor  
