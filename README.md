@@ -83,7 +83,7 @@ To build a binary text classifier that can:
 
 **Suhani Sawalka**  
 🎓 Electronics & Telecommunication + Data Science Minor  
-💼 Passionate about NLP, AI, and Data Analytics  
+💼 Passionate about NLP, AI and Data Analytics  
 🔗 [Connect on LinkedIn](https://www.linkedin.com)
 
 ---
