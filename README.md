@@ -73,7 +73,7 @@ To build a binary text classifier that can:
 
 | File Name               | Description                            |
 |------------------------|----------------------------------------|
-| `FakeNewsDetection.ipynb` | Jupyter/Colab notebook with full code |
+| `FakeNewsDetection.ipynb` | Colab notebook with full code |
 | `Fake.csv`, `True.csv`    | Dataset files      |
 | `README.md`               | This file                            |
 
